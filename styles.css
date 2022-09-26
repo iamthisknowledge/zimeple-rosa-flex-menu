@@ -1,0 +1,14 @@
+.nav-wrapper {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+}
+.item {
+    text-align: center;
+    border: 1px solid 0;
+    padding: 10px;
+    margin: 10px 10px;
+    background: #fbe3e8;
+    border-radius: 10px;
+    color: #E75D7A;
+}
